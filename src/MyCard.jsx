@@ -27,6 +27,7 @@ export default function MyCard(props) {
   </CardContent>
   <CardActions>
     <Button size="small">Learn More</Button>
+    <Button size="small">New bt</Button>
     <Button size="small">XXXx</Button>
   </CardActions>
 </Card>
